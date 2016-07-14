@@ -1,0 +1,124 @@
+nav{
+    background-color:#808080;
+     ;
+}
+nav a{
+    text-decoration: none;
+    color:white;
+    background-color:#ffbf00;
+    color:#ffffff;
+    padding:35px;
+    display:block;
+    float:left
+  
+}
+.clearfix:after{
+    visibility: hidden;
+    display:block;
+    content:" ";
+    clear:both;
+    height:0;
+    font-size;0;
+}
+a:hover{
+    background-color: #ee5f3c;
+}
+body{
+	
+	font-family:"Futura", sans-serif;
+	color:#267326;
+	background-color:#f0f0f5;
+    margin:8px;
+}
+
+.board{
+	height:600px;
+	width:100%;
+	display: block;
+    float:left;
+/*    margin:0px 0px 0px 380px;*/
+    align-content: center;
+}
+#row1{
+    text-align: center;
+}
+#row2{
+    text-align: center;
+}
+#card1{
+	height:200px;
+	width:150px;
+	border:black solid 1px;
+	background-color: yellow;
+	border-radius: 10px;  
+    display: inline-block;
+        margin: 0 auto;
+/*    margin:0;*/
+}
+#card2{
+	height:200px;
+	width:150px;
+	border:black solid 1px;
+	background-color: yellow;
+	border-radius: 10px; 
+    display: inline-block;
+        margin: 0 auto;
+
+/*    margin: -202px 0px 0px 200px;*/
+}
+#card3{
+	height:200px;
+	width:150px;
+	border:black solid 1px;
+	background-color: yellow;
+	border-radius: 10px; 
+    display: inline-block;
+        margin: 0 auto;
+
+/*    margin: 50px 0px 0px 0px;*/
+}
+#card4{
+	height:200px;
+	width:150px;
+	border:black solid 1px;
+	background-color: yellow;
+	border-radius: 10px; 
+    display: inline-block;
+        margin: 0 auto;
+
+/*    margin: -202px 0px 0px 200px;*/
+   
+}
+img{
+    height:200px;
+    width:150px;
+}
+h1{
+	color:#008080;
+    text-align: center;
+}
+h2{
+	color:#000000;
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+footer{
+    background-color: #808080;
+    text-align: center;
+    color:aliceblue;
+    clear:both;
+}
+#namez{
+color:lightcyan;
+font-family:"Futura", sans-serif;
+}
+#dog{
+height:36px;
+width: 36px;
+padding:0;
+}
